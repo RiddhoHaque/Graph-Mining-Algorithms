@@ -1,0 +1,22 @@
+Subgraph pattern 0
+0 1 1 0 0
+Expected support: 2.987038 2.987038
+Subgraph pattern 1
+0 1 1 0 0
+1 2 0 0 0
+Expected support: 2.588327 2.588327
+Subgraph pattern 2
+0 1 1 0 0
+0 2 1 0 0
+Expected support: 2.113839 2.313839
+Subgraph pattern 3
+0 1 0 0 0
+Expected support: 2.599568 2.599568
+No of graphs=3
+Node Labels=2
+Edge Labels=1
+Min sup=2
+Node Labels sorted: 1 0 
+Edge Labels sorted: 0 
+Time taken: 0.203
+Frequent Subgraphs mined: 4
